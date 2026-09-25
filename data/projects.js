@@ -619,7 +619,7 @@ const projects = [
       {
         type: "last-commit",
         key: "Last Update",
-        value: "Av32000/av32000.github.io",
+        value: "Av32000/av32000.dev",
       },
     ],
     contentBlocks: [
@@ -647,13 +647,13 @@ const projects = [
         type: "text",
         tags: ["noPrint"],
         value:
-          "The code is available on [GitHub](https://github.com/Av32000/av32000.github.io), so you can read it and discover my coding philosophy.",
+          "The code is available on [GitHub](https://github.com/Av32000/av32000.dev), so you can read it and discover my coding philosophy.",
       },
       {
         type: "text",
         tags: ["printOnly"],
         value:
-          "This is an automatic export from the website. The code is available on [GitHub](https://github.com/Av32000/av32000.github.io), so you can read it and discover my coding philosophy.",
+          "This is an automatic export from the website. The code is available on [GitHub](https://github.com/Av32000/av32000.dev), so you can read it and discover my coding philosophy.",
       },
       {
         type: "images",
